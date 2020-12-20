@@ -1,0 +1,205 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+   
+    width:90%;
+    margin: 0 auto;
+    min-width:600px;max-width:2000px
+    background-color #ffffff;
+     color: #000000;
+     font-size: 17px;
+     font-family:  'Oswald', sans-serif;
+     margin: 0% auto;
+     
+}
+
+   
+
+
+   
+a {
+    color: #f70090;
+    background-color: rgba(231, 137, 195, 0.062);
+     text-decoration: none;
+     padding: 0px 50px;
+     margin-left: 10%;
+     display: inline-block;
+     
+     
+ } 
+
+
+ ol{
+     color: rgb(247, 0, 115);
+ }
+
+
+
+ul{
+    list-style: none;
+    
+}
+
+.container{
+width: 90%;
+margin: auto;
+}
+
+
+/*Navegation*/
+
+
+
+.nav-main{
+ font-size: 17px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ height: 60px;
+ padding: 20px 0px;
+ margin-right: 10px;
+ 
+}
+
+
+
+
+/*Navegation izquierda*/
+
+
+hr{
+    padding: 10px 0px;
+    
+}
+
+
+.nav-brand{
+    width: 30px;
+    }
+
+
+.nav-main ul{
+    display: flex;
+    padding: 5px;
+    
+}
+
+.nav-main ul li{
+    padding: 0px;
+    
+}
+
+.nav-main ul.main menu{
+    flex: 1;
+    margin-left: 20%;
+    
+   }
+
+
+.nav-main ul li a:hover{
+    border-bottom: 2px solid rgb(185, 91, 138);
+}
+
+
+
+
+.showcase{
+    width: 100%;
+    background-color: rgb(250, 227, 241);
+    padding: 15%;
+    align-items: center;
+    
+}
+
+
+
+
+.belleza{
+cursor: pointer;
+display: inline block;
+border: 0;
+padding: 10px 50px;
+background-color: rgb(240, 222, 230);
+font-weight: bold;
+font-size: 20px;
+border: 1px solid wheat;
+margin: 10px 0px;
+}
+
+
+.belleza :hover{
+    opacity: .10;
+}
+
+
+
+p img{
+    padding: 27px;
+}
+    
+
+
+
+article{
+    font-size: 130%;
+    font-family: 'Times New Roman';
+    padding: 0px ;
+    padding: 50px 50px;
+    align-items: center;
+}
+
+header{
+    font-family: 'Times New Roman';
+    font-size: 130%;
+    padding: 20px 20px;
+    background-color: rgb(245, 228, 239);
+}
+
+
+img{
+    padding: 0px 0px;
+    align-items: center;
+    margin-left: 0% ;
+}
+
+p{
+    font-size: 30px;
+}
+
+footer{
+    padding: 20px;
+}
+
+
+/*Social*/
+
+
+.social{
+    margin: 50px;
+}
+
+.social p{
+text-align: center;
+font-size: 30px;
+margin-bottom: 30px;    
+
+
+}
+
+.links{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+
+
+
+
+
+
+
