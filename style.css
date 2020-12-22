@@ -6,7 +6,7 @@
 
 body{
    
-    width:90%;
+    width:40%;
     margin: 0 auto;
     min-width:600px;max-width:2000px
     background-color #ffffff;
@@ -25,7 +25,7 @@ a {
     color: #f70090;
     background-color: rgba(231, 137, 195, 0.062);
      text-decoration: none;
-     padding: 0px 50px;
+     padding: 0px 25px;
      margin-left: 10%;
      display: inline-block;
      
@@ -45,7 +45,7 @@ ul{
 }
 
 .container{
-width: 90%;
+width: 60%;
 margin: auto;
 }
 
@@ -147,27 +147,29 @@ p img{
 article{
     font-size: 130%;
     font-family: 'Times New Roman';
-    padding: 0px ;
-    padding: 50px 50px;
+    padding: 20px ;
+    padding: 20px 0px;
     align-items: center;
 }
 
 header{
     font-family: 'Times New Roman';
     font-size: 130%;
-    padding: 20px 20px;
+    padding: 30px 30px;
     background-color: rgb(245, 228, 239);
 }
 
 
 img{
-    padding: 0px 0px;
+    padding: 0px 10px;
     align-items: center;
     margin-left: 0% ;
 }
 
 p{
-    font-size: 30px;
+    font-size: 23px;
+    
+  
 }
 
 footer{
@@ -194,6 +196,9 @@ margin-bottom: 30px;
     align-items: center;
     justify-content: center;
     display: flex;
+    padding: 10px 49px;
+    margin-left: auto;
+    
 }
 
 
