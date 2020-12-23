@@ -6,7 +6,7 @@
 
 body{
    
-    width:10%;
+    width:1%;
     min-width:600px;max-width:2000px
     background-color #ffffff;
      color: #000000;
@@ -25,7 +25,7 @@ a {
     color: #f70090;
     background-color: rgba(231, 137, 195, 0.062);
      text-decoration: none;
-     padding: 0px 15px;
+     padding: 0px 10px;
      margin-left: 10%;
      display: inline-block;
      
@@ -147,6 +147,8 @@ margin: 10px 0px;
 
 p img{
     padding: 27px;
+    align-items: center;
+    justify-content: center;
 }
     
 
@@ -176,9 +178,9 @@ header img{
 
 
 img{
-    padding: 1px 1px;
+    
     align-items: center;
-    margin-left: 10% ;
+    margin-left: 15% ;
 }
 
 p{
