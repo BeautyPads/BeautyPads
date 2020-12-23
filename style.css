@@ -116,6 +116,19 @@ hr{
     
     
 }
+
+/* Configuración del showcase*/
+
+.showcase p{
+font-size: 17px;
+
+}
+.showcase h2{
+
+    font-size: 27px;
+}
+
+
 time{
     padding: 20%;
 }
@@ -172,8 +185,15 @@ header{
 }
 
 header img{
-    margin-left: 330px;
-    padding: 30px 20px;
+    margin-left: 30px;
+    padding: 40px 0px;
+}
+
+
+nav img{
+    padding: 10px 20px;
+    margin-left: 5px;
+
 }
 
 
@@ -184,7 +204,7 @@ img{
 }
 
 p{
-    font-size: 20px;
+    font-size: 15px;
     width: 290px;
     margin-right: 40%;
     margin-left: 20%;
@@ -217,6 +237,7 @@ margin-bottom: 30px;
     display: flex;
     padding: 10px 49px;
     margin-left: auto;
+    background-color: rgb(255, 255, 255);
     
 }
 
