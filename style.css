@@ -7,7 +7,8 @@
 body{
    
     width:1%;
-    min-width:500px;max-width:100000px
+    min-width:550px;
+    max-width:100000px
     background-color #ffffff;
      color: #000000;
      font-size: 17px;
@@ -23,7 +24,7 @@ body{
    
 a {
     color: #f70090;
-    background-color: rgba(231, 137, 195, 0.062);
+    background-color: rgba(255, 255, 255, 0.062);
      text-decoration: none;
      padding: 0px 10px;
      margin-left: 10%;
@@ -144,11 +145,16 @@ cursor: pointer;
 display: inline block;
 border: 0;
 padding: 10px 50px;
-background-color: rgb(240, 222, 230);
+background-color: rgb(255, 255, 255);
 font-weight: bold;
 font-size: 20px;
 border: 1px solid wheat;
 margin: 10px 0px;
+}
+
+.belleza a{
+    margin-left: 33px;
+    padding: 30px;
 }
 
 
