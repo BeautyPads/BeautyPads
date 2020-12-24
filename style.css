@@ -8,7 +8,7 @@ body{
    
     width:1%;
     min-width:550px;
-    max-width:600000px
+    max-width:100000px
     background-color #ffffff;
      color: #000000;
      font-size: 17px;
@@ -127,7 +127,10 @@ font-size: 17px;
 }
 
 
-
+.showcase header{
+    margin-left: 40%;
+    padding: 40px;
+}
 .showcase h2{
 
     font-size: 27px;
@@ -251,6 +254,14 @@ margin-bottom: 30px;
 
 hgroup{
     margin-left: 10%;
+}
+
+p a{
+    margin-left: 50px;
+    padding: 20px 20px;
+    align-items: center;
+    justify-content: center;
+
 }
 
 
